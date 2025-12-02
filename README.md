@@ -1,6 +1,6 @@
 #ADVICE GENERATOR
 
 🔗 Live Website:
-https://mikheiljananashvili.github.io/Browser-extension-manager-UI/
+https://mikheiljananashvili.github.io/advice-generator/
 
 A simple project built with React + Vite.
